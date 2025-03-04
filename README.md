@@ -1,7 +1,7 @@
  Hi there! 👋 I'm a Quality Engineer
 -------------
 
-with extensive experience in test automation, performance engineering, and service virtualization. I specialize in building scalable, maintainable, and high-quality test for digital product
+with extensive experience in test manual & automation, performance, and service virtualization. I specialize in building scalable, maintainable, and high-quality test for digital product.
 
 * 🌍  I'm based in Bandung, West Java, Indonesia
 * ✉️  You can contact me at [aljazari.foundation@gmail.com](mailto:aljazari.foundation@gmail.com)
