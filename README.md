@@ -20,7 +20,10 @@ with extensive experience in test manual & automation, performance, and service 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 <a href="https://www.jetbrains.com/pycharm" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/pycharm_128.png" width="36" height="36" alt="pycharm" /></a>
 <a href="https://lp.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/intellij_128.png" width="36" height="36" alt="IntelliJ" /></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/icons/Jupyter.png" width="36" height="36" alt="IntelliJ" /></a>
 </p>
+
+
 
 #### Automation Testing (Web, Mobile, Desktop, API, Smart Card)
 </p>
