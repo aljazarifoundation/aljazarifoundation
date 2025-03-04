@@ -1,8 +1,5 @@
-Hi 👋 My name is aljazarifoundation
-===================================
-
-Quality Engineer
-----------------
+ Hi there! 👋 I'm a Quality Engineer
+-------------
 
 with extensive experience in test automation, performance engineering, and service virtualization. I specialize in building scalable, maintainable, and high-quality test for digital product
 
@@ -25,7 +22,7 @@ with extensive experience in test automation, performance engineering, and servi
 <a href="https://lp.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/intellij_128.png" width="36" height="36" alt="IntelliJ" /></a>
 </p>
 
-#### Automation testing (Web, Mobile, Desktop)
+#### Automation Testing (Web, Mobile, Desktop, Smart Card)
 </p>
 <p align="center">
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/cucumber_128.png" width="36" height="36" alt="Gherkin" /></a>
@@ -45,7 +42,10 @@ with extensive experience in test automation, performance engineering, and servi
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/android_studio_128.png" width="36" height="36" alt="android studio" /></a>
 <a href="https://testcafe.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/testcafe_128.png" width="36" height="36" alt="testcafe" /></a>
 <a href="https://allurereport.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/allure_report_128.png" width="36" height="36" alt="Allure" /></a>
+<a href="https://selectorshub.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/selectorhub_128.png" width="36" height="36" alt="Allure" /></a>
+<a href="https://www.youtube.com/playlist?list=PL-PGLNGPDn5_7h3M-lxxbf_OvYFgAWiz_" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/simcard_128.png" width="36" height="36" alt="SmartCard" /></a>
 </p>
+
 
 #### Application Development Life Cycle (ADLM)
 </p>
@@ -56,7 +56,7 @@ with extensive experience in test automation, performance engineering, and servi
 <a href="https://clickup.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/clickup_128.png" width="36" height="36" alt="clickup" /></a>
 </p>
 
-#### Performance & Service Virtualization
+#### Integration, Performance & Service Virtualization
 </p>
 <p align="center">
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/blazemeter_128.png" width="36" height="36" alt="blazemeter" /></a>
@@ -70,6 +70,8 @@ with extensive experience in test automation, performance engineering, and servi
 <a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/dynatrace_128.png" width="36" height="36" alt="dynatrace" /></a>
 <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/zabbix_128.png" width="36" height="36" alt="zabbix" /></a>
 <a href="https://admhelp.microfocus.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/microfocus_128.png" width="36" height="36" alt="service virtualization" /></a>
+<a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/datadog_128.png" width="36" height="36" alt="datadog" /></a>
+  
 </p>
 
 #### Learning 
