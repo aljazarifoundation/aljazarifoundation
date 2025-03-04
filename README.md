@@ -25,7 +25,7 @@ with extensive experience in test manual & automation, performance, and service 
 
 
 
-#### Automation Testing (Web, Mobile, Desktop, API, Smart Card)
+#### Automation Testing (Web, Mobile, Desktop, API, Smart Card) & Reporting
 </p>
 <p align="center">
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/cucumber_128.png" width="36" height="36" alt="Gherkin" /></a>
@@ -44,9 +44,13 @@ with extensive experience in test manual & automation, performance, and service 
 <a href="https://github.com/appium/appium-inspector" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/appium_inspector_128.png" width="36" height="36" alt="appium inspector" /></a>
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/android_studio_128.png" width="36" height="36" alt="android studio" /></a>
 <a href="https://testcafe.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/testcafe_128.png" width="36" height="36" alt="testcafe" /></a>
-<a href="https://allurereport.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/allure_report_128.png" width="36" height="36" alt="Allure" /></a>
 <a href="https://selectorshub.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/selectorhub_128.png" width="36" height="36" alt="Allure" /></a>
 <a href="https://www.youtube.com/playlist?list=PL-PGLNGPDn5_7h3M-lxxbf_OvYFgAWiz_" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/simcard_128.png" width="36" height="36" alt="SmartCard" /></a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/gitlab_128.png" width="36" height="36" alt="Gitlab" /></a>
+<a href="https://allurereport.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/allure_report_128.png" width="36" height="36" alt="Allure" /></a>
+<a href="https://testomat.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/testomatio_128.png" width="36" height="36" alt="testomat" /></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/jenkins_128.png" width="36" height="36" alt="jenkins" /></a>
+<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/mssql_128.png" width="36" height="36" alt="SQL Server" /></a>
 </p>
 
 
@@ -59,7 +63,7 @@ with extensive experience in test manual & automation, performance, and service 
 <a href="https://clickup.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/clickup_128.png" width="36" height="36" alt="clickup" /></a>
 </p>
 
-#### Integration, Performance & Service Virtualization
+#### Integration, Performance, Service Virtualization & Monitoring
 </p>
 <p align="center">
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/blazemeter_128.png" width="36" height="36" alt="blazemeter" /></a>
@@ -70,9 +74,10 @@ with extensive experience in test manual & automation, performance, and service 
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/xml_128.png" width="36" height="36" alt="xml" /></a>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/json_128.png" width="36" height="36" alt="json" /></a>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/binary_128.png" width="36" height="36" alt="binary" /></a>
+ <a href="https://admhelp.microfocus.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/microfocus_128.png" width="36" height="36" alt="service virtualization" /></a>
+ 
 <a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/dynatrace_128.png" width="36" height="36" alt="dynatrace" /></a>
 <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/zabbix_128.png" width="36" height="36" alt="zabbix" /></a>
-<a href="https://admhelp.microfocus.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/microfocus_128.png" width="36" height="36" alt="service virtualization" /></a>
 <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/datadog_128.png" width="36" height="36" alt="datadog" /></a>
   
 </p>
