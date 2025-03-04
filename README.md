@@ -22,7 +22,7 @@ with extensive experience in test manual & automation, performance, and service 
 <a href="https://lp.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/intellij_128.png" width="36" height="36" alt="IntelliJ" /></a>
 </p>
 
-#### Automation Testing (Web, Mobile, Desktop, Smart Card)
+#### Automation Testing (Web, Mobile, Desktop, API, Smart Card)
 </p>
 <p align="center">
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/cucumber_128.png" width="36" height="36" alt="Gherkin" /></a>
