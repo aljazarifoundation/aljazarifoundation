@@ -24,6 +24,7 @@ with extensive experience in test manual & automation, performance, and service 
 #### Language & IDE
 <p align="center">
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/c_128.png" width="36" height="36" alt="C" /></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/c++_128.png" width="36" height="36" alt="C++" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/aljazarifoundation/convertericonqualityengineer/blob/main/resized-icons/csharp_128.png" width="36" height="36" alt="C#" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
