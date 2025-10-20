@@ -1,13 +1,16 @@
  Hi there! 👋 I'm a Quality Engineer
 -------------
 
-with extensive experience in test manual & automation, performance, and service virtualization. I specialize in building scalable, maintainable, and high-quality test for digital product.
+Professinal experience in test Manual, Automation, Performance & service virtualization. I specialize in building scalable, maintainable, and high-quality test for digital product.
 
 * 🌍  I'm based in Bandung, West Java, Indonesia
 * ✉️  You can contact me at [aljazari.foundation@gmail.com](mailto:aljazari.foundation@gmail.com)
 * 🧠  I'm learning Python, AI, and Robotic
-* 🤝  I'm open to collaborating on Integration, End2End Automation Testing, etc
+* 🤝  I'm open to collaborating Functional & Non-Functional Testing
 * ⚡  Let's Connect with us
+
+
+<img width="6000" height="3375" alt="Mind Map by Dian Permana" src="https://github.com/user-attachments/assets/ab14c9de-9010-46b2-8bfd-0cb368dd977e" />
 
 -------------
 ### Experience & Testing Tools
